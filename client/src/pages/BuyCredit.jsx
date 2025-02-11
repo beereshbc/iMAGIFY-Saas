@@ -75,7 +75,7 @@ const BuyCredit = () => {
       <p className="py-2 cursor-pointer px-2 w-40 text-center mb-4  border rounded-full border-gray-300 bg-white text-sm text-gray-500">
         OUR PLANS
       </p>
-      <h2 className="font-semibold text-xl sm:text-2xl">This credits are completly <span className="text-green-600">FREE</span>  you can add it the payment is only testing purpose you can buy dummy... your amount not diduct from your account</h2>
+      <h2 className="font-semibold text-xl sm:text-2xl">This credits are completly <span className="text-green-600">FREE</span>  you can add it... the payment is only testing purpose you can buy dummy... your amount not diduct from your account</h2>
       <div className="flex flex-wrap gap-4 justify-center items-center mt-20">
         {plans.map((plan, index) => (
           <div
