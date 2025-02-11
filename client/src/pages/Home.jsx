@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "../components/hEADER.JSX";
+import Header from "../components/Header.jsx";
 import Steps from "../components/Steps";
 import Description from "../components/Description";
 import Testimonials from "../components/Testimonials";
