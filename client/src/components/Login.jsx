@@ -7,7 +7,7 @@ import { motion } from "motion/react";
 import { toast } from "react-toastify";
 
 const Login = () => {
-  const [state, setState] = useState("Login");
+  const [state, setState] = useState("SignUp");
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
