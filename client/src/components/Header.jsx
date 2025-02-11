@@ -30,7 +30,7 @@ const Header = () => {
         animate={({ opacity: 1 }, { y: 0 })}
         transition={({ delay: 0.2 }, { duration: 0.8 })}
       >
-        <p><span class="[&>svg]:h-5 [&>svg]:w-5">
+        <p className="flex"><span class="[&>svg]:h-5 [&>svg]:w-5">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="currentColor"
